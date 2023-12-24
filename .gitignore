@@ -1,0 +1,7 @@
+# zig internals
+zig-cache/
+zig-out/
+
+# compulation artifacts
+.o
+
